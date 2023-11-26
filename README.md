@@ -1,4 +1,4 @@
-# User-Taught Chatbot
+# _User-Taught Chatbot_
 
 ## Overview
 This project implements a simple chatbot that learns from user interactions. The chatbot is designed to answer questions based on a pre-defined knowledge base but prompts users to teach it when it encounters unfamiliar queries.
